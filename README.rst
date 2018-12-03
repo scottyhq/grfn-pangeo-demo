@@ -16,5 +16,5 @@ Features
 .. _pangeo.binder.io: http://binder.pangeo.io/
 
 .. |Binder| image:: http://binder.pangeo.io/badge.svg
-    :target: http://binder.pangeo.io/v2/gh/scottyhq/grfn_pangeo_demo/master
+    :target: http://binder.pangeo.io/v2/gh/scottyhq/grfn_pangeo_demo/master?filepath=notebooks%2F0-GRFN-demo.ipynb
 
