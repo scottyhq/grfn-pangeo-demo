@@ -20,7 +20,7 @@ dependencies:
   - libgdal=2.3.2
   - boto3=1.9
   - hvplot=0.2
-  - datashader
+  - datashader=0.6
   - requests=2.20
   - pandas=0.23
   - geopandas=0.4
