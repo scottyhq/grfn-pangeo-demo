@@ -8,10 +8,10 @@ dependencies:
   - xarray=0.11
   - matplotlib=3.0
   - ipywidgets=7.4
-  - libgdal=2.3.2
+  - libgdal=2.3
   - boto3=1.9
   - hvplot=0.2
   - datashader=0.6
   - pandas=0.23
   - geopandas=0.4
-  - rasterio=1.0.10
+  - rasterio=1.0
