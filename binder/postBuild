@@ -1,7 +1,7 @@
 #!/bin/bash
 
-jupyter labextension install @pyviz/jupyterlab_pyviz@0.6.4 \
-                             jupyter-leaflet@0.8.1 \
+jupyter labextension install @pyviz/jupyterlab_pyviz \
+                             jupyter-leaflet \
 
 
 #EOF
